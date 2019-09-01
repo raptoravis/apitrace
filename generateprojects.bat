@@ -1,0 +1,1 @@
+cmake -S. -Bbuild -G "Visual Studio 15 2017 Win64" -DCMAKE_PREFIX_PATH=E:\developer\thirdparty\Qt\Qt5.9.1\5.9.1\msvc2017_64
